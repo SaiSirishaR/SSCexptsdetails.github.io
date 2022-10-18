@@ -1,6 +1,6 @@
 ## SSC experiment details
 
-You can use the [editor on GitHub](https://github.com/SaiSirishaR/SSCexptsdetails.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The speech samples for the VC experiments
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
